@@ -1,7 +1,7 @@
 ## Function makeCacheMatrix, to create a squared Matrix.
 ## The function creates a CacheMatrix.
 
-## Getting Data to Solve.
+## makeCacheMatrix sets a Matrix, that later can be gotten.
 
 makeCacheMatrix <- function(x = matrix()) {
              m<-NULL
